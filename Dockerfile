@@ -3,7 +3,7 @@ COPY . /app
 RUN make /app
 CMD python /app/app.py
 
-use .dockerignore
+#use .dockerignore
 
 ===Working with Instructions===
 
