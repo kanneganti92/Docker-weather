@@ -7,7 +7,7 @@ CMD python /app/app.py
 
 #===Working with Instructions===
 
-yum install git -y
+#yum install git -y
 
 mkdir docker_images
 
