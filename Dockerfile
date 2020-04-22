@@ -5,7 +5,7 @@ CMD python /app/app.py
 
 #use .dockerignore
 
-===Working with Instructions===
+#===Working with Instructions===
 
 sudo yum install git -y
 
